@@ -1,5 +1,6 @@
 # React Template using Vite
-- node scripts: dev, build, lint, preview
+- vitest
+- node scripts: dev, build, lint, testm preview
 - eslint
 - prettier
 - Josh Comeau CSS Style reset
