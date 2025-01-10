@@ -1,5 +1,6 @@
 # React Template using Vite
-- vitest
+- React, React router
+- vitest: jest-dom, user-event
 - node scripts: dev, build, lint, testm preview
 - eslint
 - prettier
